@@ -218,7 +218,7 @@ class _LoginPageState extends State<LoginPage> {
                     child: Padding(
                   padding: EdgeInsets.all(mobilescreenHeight * 0.02),
                   child: Text(
-                    'SEGi Student Personal Manage Portal',
+                    'SEGi Student Personal Management Portal',
                     style: TextStyle(
                         fontFamily: 'Texturina',
                         fontSize: mobilescreenHeight * 0.035),
