@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696060256689",
+    "project_id": "student-portal-2d8f1",
+    "storage_bucket": "student-portal-2d8f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696060256689:android:cdb86f991ab34f722edd90",
+        "android_client_info": {
+          "package_name": "com.example.student_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaj-KkcAm01wD7Gm7cHyHM71QLw74l6js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
