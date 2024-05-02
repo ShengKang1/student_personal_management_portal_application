@@ -183,6 +183,10 @@ class _CourseRegisterState extends State<CourseRegister> {
         }
       }
 
+      // if (isRegistrationAvailable) {
+      //   availableCourses.add(
+      //       '$courseCode $courseName${group == 'none' ? '' : ' ($group)'}');
+      // }
       if (isRegistrationAvailable) {
         availableCourses.addAll(courses);
       }
